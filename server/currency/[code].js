@@ -1,4 +1,4 @@
-export default defineEventHandler(async (event) => {
+/* export default defineEventHandler(async (event) => {
   const { code } = event.context.params;
   const { currencyKey } = useRuntimeConfig();
 
@@ -8,3 +8,4 @@ export default defineEventHandler(async (event) => {
 
   return data;
 });
+ */
